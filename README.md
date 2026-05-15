@@ -18,4 +18,4 @@ Este espaço é o meu laboratório prático. Meus repositórios incluem:
 ## 📫 Como entrar em contato comigo
 
 - [LinkedIn](https://www.linkedin.com/in/cristhianvieira/)
-- [E-mail](cristhianvcunha@gmail.com)
+- [E-mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
