@@ -17,5 +17,5 @@ Este espaço é o meu laboratório prático. Meus repositórios incluem:
 
 ## 📫 Como entrar em contato comigo
 
-- [LinkedIn](www.linkedin.com/in/cristhianvieira)
+- [LinkedIn](https://www.linkedin.com/in/cristhianvieira/)
 - [E-mail](cristhianvcunha@gmail.com)
