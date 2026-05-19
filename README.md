@@ -1,6 +1,6 @@
 # Olá, eu sou o Cristhian! 
 
-Atualmente sou estudante de **Data Science e Big Data** e estou me preparando para me tornar um *Analista de Dados Jr. Gosto de estruturar informações, criar automações e transformar dados brutos em insights estratégicos.
+Atualmente sou estudante de **Data Science e Big Data** e estou me preparando para me tornar um Analista de Dados Jr. Gosto de estruturar informações, criar automações e transformar dados brutos em insights estratégicos.
 
 ##  Minha Stack e Ferramentas
 
