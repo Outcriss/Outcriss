@@ -10,7 +10,7 @@ Atualmente sou estudante de **Data Science e Big Data** e estou me preparando pa
 
 ##  O que você vai encontrar por aqui
 
-Este espaço é o meu laboratório prático. Meus repositórios incluem:
+Meus repositórios incluem:
 -  Projetos acadêmicos do curso de Data Science.
 -  Análises de dados pessoais e explorações de ferramentas.
 -  Testes de automação e modelagem de dados.
