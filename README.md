@@ -6,7 +6,7 @@ Atualmente sou estudante de **Data Science e Big Data** e estou me preparando pa
 
 - **Business Intelligence & Análise:** Power BI (Intermediário - DAX e Power Query) e Excel (Avançado - VBA e Macros).
 - **Bancos de Dados & Linguagens:** SQL (PostgreSQL), Python (básico) e Java.
-- **Automação & Processos:** n8n.
+- **Automação & Processos:** n8n e Python.
 
 ##  O que você vai encontrar por aqui
 
