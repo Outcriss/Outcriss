@@ -18,3 +18,4 @@ Meus repositórios incluem:
 ##  Como entrar em contato comigo
 
 - [LinkedIn](https://www.linkedin.com/in/cristhianvieira/)
+- [Gmail](cristhianvcunha@gmail.com)
